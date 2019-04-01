@@ -1,0 +1,10 @@
+from math import *
+x1 = input("enter x1")
+y1 = input("enter y1")
+x2 = input("enter x2")
+y2 = input("enter y2")
+x3 = input("enter x3")
+y3 = input("enter y3")
+leight = sqrt(x1)
+print(leight)
+input("Press enter")
